@@ -1,5 +1,3 @@
-Certainly! Here's the updated README file with the information added:
-
 # DataDrive2030 Machine Learning Competition
 
 Welcome to the DataDrive2030 Machine Learning Competition! In this competition, your task is to leverage machine learning techniques to identify factors that contribute to better learning outcomes in children attending early learning programs in South Africa.

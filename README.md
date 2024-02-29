@@ -37,6 +37,3 @@ ID_SPYK410VL   64.070   child_score_item_4    child_score_item_3   ...
 - Total Participants Enrolled: 978
 - Your Ranking: 19th out of 311
 
-Congratulations on your impressive achievement! Placing 19th out of 311 participants demonstrates your strong skills and dedication to the competition's objectives. Your performance reflects your proficiency in machine learning techniques and your capability to analyze and interpret data effectively in a competitive environment.
-
-Thank you for participating in the DataDrive2030 Machine Learning Competition! Good luck in your future endeavors!
